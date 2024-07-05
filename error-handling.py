@@ -1,4 +1,5 @@
-Error handling in Python is done using the try, except, else, and finally blocks. This allows you to manage exceptions (errors) gracefully and provide a mechanism to handle them without breaking the program.
+Error handling in Python is done using the try, except, else, and finally blocks. 
+This allows you to manage exceptions (errors) gracefully and provide a mechanism to handle them without breaking the program.
 
 
 try:
